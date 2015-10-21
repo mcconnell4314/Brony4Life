@@ -1,0 +1,16 @@
+BLARG:
+
+Step 1:
+ -B
+
+Step 2:
+ -L
+
+Step 3:
+ -A
+
+Step 4:
+ -R
+
+Step 5:
+ -G
